@@ -1,0 +1,803 @@
+{
+    "Colombo": {
+        "Seethawaka Pradeshiya Sabha": {
+            "counts": [
+                {
+                    "Votes": 43469, 
+                    "PartyAbbrev": "SLPP", 
+                    "PartyName": "Sri Lanka Podujana Peramuna", 
+                    "Percentage": 53.02, 
+                    "Members": 23
+                }, 
+                {
+                    "Votes": 24686, 
+                    "PartyAbbrev": "UNP", 
+                    "PartyName": "United National Party", 
+                    "Percentage": 30.11, 
+                    "Members": 13
+                }, 
+                {
+                    "Votes": 6042, 
+                    "PartyAbbrev": "UPFA", 
+                    "PartyName": "United People s Freedom Alliance", 
+                    "Percentage": 7.37, 
+                    "Members": 3
+                }, 
+                {
+                    "Votes": 5506, 
+                    "PartyAbbrev": "JVP", 
+                    "PartyName": "People s Liberation Front", 
+                    "Percentage": 6.72, 
+                    "Members": 3
+                }, 
+                {
+                    "Votes": 1254, 
+                    "PartyAbbrev": "NPP", 
+                    "PartyName": "National Peoples Party", 
+                    "Percentage": 1.53, 
+                    "Members": 1
+                }, 
+                {
+                    "Votes": 1035, 
+                    "PartyAbbrev": "DUNF", 
+                    "PartyName": "Democratic United National Front", 
+                    "Percentage": 1.26, 
+                    "Members": 0
+                }
+            ], 
+            "BodyName": "Seethawaka Pradeshiya Sabha", 
+            "District": "Colombo", 
+            "summary": {
+                "RejectedVotes": 1461, 
+                "RegisteredVotes": 102328, 
+                "TotalMembers": 0, 
+                "TotalPolled": 83453, 
+                "ValidVotes": 81992
+            }
+        }, 
+        "Kaduwela Municipal Council": {
+            "counts": [
+                {
+                    "Votes": 71016, 
+                    "PartyAbbrev": "SLPP", 
+                    "PartyName": "Sri Lanka Podujana Peramuna", 
+                    "Percentage": 51.79, 
+                    "Members": 26
+                }, 
+                {
+                    "Votes": 31429, 
+                    "PartyAbbrev": "UNP", 
+                    "PartyName": "United National Party", 
+                    "Percentage": 22.92, 
+                    "Members": 11
+                }, 
+                {
+                    "Votes": 15549, 
+                    "PartyAbbrev": "UPFA", 
+                    "PartyName": "United People s Freedom Alliance", 
+                    "Percentage": 11.34, 
+                    "Members": 5
+                }, 
+                {
+                    "Votes": 15071, 
+                    "PartyAbbrev": "JVP", 
+                    "PartyName": "People s Liberation Front", 
+                    "Percentage": 10.99, 
+                    "Members": 5
+                }, 
+                {
+                    "Votes": 1045, 
+                    "PartyAbbrev": "IG1", 
+                    "PartyName": "Independent Group 1", 
+                    "Percentage": 0.76, 
+                    "Members": 1
+                }, 
+                {
+                    "Votes": 873, 
+                    "PartyAbbrev": "IG3", 
+                    "PartyName": "Independent Group 3", 
+                    "Percentage": 0.64, 
+                    "Members": 0
+                }, 
+                {
+                    "Votes": 807, 
+                    "PartyAbbrev": "NPP", 
+                    "PartyName": "National Peoples Party", 
+                    "Percentage": 0.59, 
+                    "Members": 0
+                }, 
+                {
+                    "Votes": 639, 
+                    "PartyAbbrev": "SPSL", 
+                    "PartyName": "Socialist Party of Sri Lanka", 
+                    "Percentage": 0.47, 
+                    "Members": 0
+                }, 
+                {
+                    "Votes": 423, 
+                    "PartyAbbrev": "IG4", 
+                    "PartyName": "Independent Group 4", 
+                    "Percentage": 0.31, 
+                    "Members": 0
+                }, 
+                {
+                    "Votes": 152, 
+                    "PartyAbbrev": "JSP", 
+                    "PartyName": "Jana Setha Peramuna", 
+                    "Percentage": 0.11, 
+                    "Members": 0
+                }, 
+                {
+                    "Votes": 111, 
+                    "PartyAbbrev": "IG2", 
+                    "PartyName": "Independent Group 2", 
+                    "Percentage": 0.08, 
+                    "Members": 0
+                }
+            ], 
+            "BodyName": "Kaduwela Municipal Council", 
+            "District": "Colombo", 
+            "summary": {
+                "RejectedVotes": 2509, 
+                "RegisteredVotes": 183889, 
+                "TotalMembers": 48, 
+                "TotalPolled": 139624, 
+                "ValidVotes": 137115
+            }
+        }, 
+        "Colombo Municipal Council": {
+            "counts": [
+                {
+                    "Votes": 131353, 
+                    "PartyAbbrev": "UNP", 
+                    "PartyName": "United National Party", 
+                    "Percentage": 46.09, 
+                    "Members": 60
+                }, 
+                {
+                    "Votes": 60087, 
+                    "PartyAbbrev": "SLPP", 
+                    "PartyName": "Sri Lanka Podujana Peramuna", 
+                    "Percentage": 21.08, 
+                    "Members": 23
+                }, 
+                {
+                    "Votes": 31421, 
+                    "PartyAbbrev": "UPFA", 
+                    "PartyName": "United People s Freedom Alliance", 
+                    "Percentage": 11.03, 
+                    "Members": 12
+                }, 
+                {
+                    "Votes": 27168, 
+                    "PartyAbbrev": "UPA", 
+                    "PartyName": "United Progressive Alliance", 
+                    "Percentage": 9.53, 
+                    "Members": 10
+                }, 
+                {
+                    "Votes": 14234, 
+                    "PartyAbbrev": "JVP", 
+                    "PartyName": "People s Liberation Front", 
+                    "Percentage": 4.99, 
+                    "Members": 6
+                }, 
+                {
+                    "Votes": 4833, 
+                    "PartyAbbrev": "IG2", 
+                    "PartyName": "Independent Group 2", 
+                    "Percentage": 1.7, 
+                    "Members": 2
+                }, 
+                {
+                    "Votes": 4700, 
+                    "PartyAbbrev": "UPA", 
+                    "PartyName": "United Peace Alliance", 
+                    "Percentage": 1.65, 
+                    "Members": 2
+                }, 
+                {
+                    "Votes": 3251, 
+                    "PartyAbbrev": "SLNF", 
+                    "PartyName": "Sri Lanka National Force", 
+                    "Percentage": 1.14, 
+                    "Members": 1
+                }, 
+                {
+                    "Votes": 2853, 
+                    "PartyAbbrev": "CWC", 
+                    "PartyName": "Ceylon Worker s Congress (P.Wing)", 
+                    "Percentage": 1.0, 
+                    "Members": 1
+                }, 
+                {
+                    "Votes": 2771, 
+                    "PartyAbbrev": "NFGG", 
+                    "PartyName": "National Front for Good Governance", 
+                    "Percentage": 0.97, 
+                    "Members": 1
+                }, 
+                {
+                    "Votes": 1380, 
+                    "PartyAbbrev": "UNFF", 
+                    "PartyName": "United National Freedom Front", 
+                    "Percentage": 0.48, 
+                    "Members": 1
+                }, 
+                {
+                    "Votes": 929, 
+                    "PartyAbbrev": "IG1", 
+                    "PartyName": "Independent Group 1", 
+                    "Percentage": 0.33, 
+                    "Members": 0
+                }
+            ], 
+            "BodyName": "Colombo Municipal Council", 
+            "District": "Colombo", 
+            "summary": {
+                "RejectedVotes": 7023, 
+                "RegisteredVotes": 394044, 
+                "TotalMembers": 0, 
+                "TotalPolled": 292003, 
+                "ValidVotes": 284980
+            }
+        }, 
+        "Kotikawatte-Mulleriyawa Pradeshiya Sabha": {
+            "counts": [
+                {
+                    "Votes": 31081, 
+                    "PartyAbbrev": "SLPP", 
+                    "PartyName": "Sri Lanka Podujana Peramuna", 
+                    "Percentage": 43.96, 
+                    "Members": 16
+                }, 
+                {
+                    "Votes": 23740, 
+                    "PartyAbbrev": "UNP", 
+                    "PartyName": "United National Party", 
+                    "Percentage": 33.58, 
+                    "Members": 12
+                }, 
+                {
+                    "Votes": 8223, 
+                    "PartyAbbrev": "UPFA", 
+                    "PartyName": "United People s Freedom Alliance", 
+                    "Percentage": 11.63, 
+                    "Members": 4
+                }, 
+                {
+                    "Votes": 6172, 
+                    "PartyAbbrev": "JVP", 
+                    "PartyName": "People s Liberation Front", 
+                    "Percentage": 8.73, 
+                    "Members": 3
+                }, 
+                {
+                    "Votes": 782, 
+                    "PartyAbbrev": "DUNF", 
+                    "PartyName": "Democratic United National Front", 
+                    "Percentage": 1.11, 
+                    "Members": 1
+                }, 
+                {
+                    "Votes": 701, 
+                    "PartyAbbrev": "UPA", 
+                    "PartyName": "United Peace Alliance", 
+                    "Percentage": 0.99, 
+                    "Members": 0
+                }
+            ], 
+            "BodyName": "Kotikawatte-Mulleriyawa Pradeshiya Sabha", 
+            "District": "Colombo", 
+            "summary": {
+                "RejectedVotes": 1460, 
+                "RegisteredVotes": 90296, 
+                "TotalMembers": 0, 
+                "TotalPolled": 72159, 
+                "ValidVotes": 70699
+            }
+        }, 
+        "Sri Jayewardenapura Kotte Municipal Council": {
+            "counts": [
+                {
+                    "Votes": 22068, 
+                    "PartyAbbrev": "SLPP", 
+                    "PartyName": "Sri Lanka Podujana Peramuna", 
+                    "Percentage": 41.41, 
+                    "Members": 18
+                }, 
+                {
+                    "Votes": 17990, 
+                    "PartyAbbrev": "UNP", 
+                    "PartyName": "United National Party", 
+                    "Percentage": 33.76, 
+                    "Members": 12
+                }, 
+                {
+                    "Votes": 7676, 
+                    "PartyAbbrev": "UPFA", 
+                    "PartyName": "United People s Freedom Alliance", 
+                    "Percentage": 14.4, 
+                    "Members": 5
+                }, 
+                {
+                    "Votes": 4885, 
+                    "PartyAbbrev": "JVP", 
+                    "PartyName": "People s Liberation Front", 
+                    "Percentage": 9.17, 
+                    "Members": 3
+                }, 
+                {
+                    "Votes": 522, 
+                    "PartyAbbrev": "UNFF", 
+                    "PartyName": "United National Freedom Front", 
+                    "Percentage": 0.98, 
+                    "Members": 0
+                }, 
+                {
+                    "Votes": 113, 
+                    "PartyAbbrev": "IG", 
+                    "PartyName": "Independent Group", 
+                    "Percentage": 0.21, 
+                    "Members": 0
+                }, 
+                {
+                    "Votes": 35, 
+                    "PartyAbbrev": "ONF", 
+                    "PartyName": "Our National Front", 
+                    "Percentage": 0.07, 
+                    "Members": 0
+                }
+            ], 
+            "BodyName": "Sri Jayewardenapura Kotte Municipal Council", 
+            "District": "Colombo", 
+            "summary": {
+                "RejectedVotes": 1263, 
+                "RegisteredVotes": 74480, 
+                "TotalMembers": 38, 
+                "TotalPolled": 54552, 
+                "ValidVotes": 53289
+            }
+        }, 
+        "Kolonnawa Urban Council": {
+            "counts": [
+                {
+                    "Votes": 15271, 
+                    "PartyAbbrev": "UNP", 
+                    "PartyName": "United National Party", 
+                    "Percentage": 49.98, 
+                    "Members": 11
+                }, 
+                {
+                    "Votes": 8486, 
+                    "PartyAbbrev": "SLPP", 
+                    "PartyName": "Sri Lanka Podujana Peramuna", 
+                    "Percentage": 27.77, 
+                    "Members": 5
+                }, 
+                {
+                    "Votes": 4781, 
+                    "PartyAbbrev": "UPFA", 
+                    "PartyName": "United People s Freedom Alliance", 
+                    "Percentage": 15.65, 
+                    "Members": 3
+                }, 
+                {
+                    "Votes": 1806, 
+                    "PartyAbbrev": "JVP", 
+                    "PartyName": "People s Liberation Front", 
+                    "Percentage": 5.91, 
+                    "Members": 1
+                }, 
+                {
+                    "Votes": 191, 
+                    "PartyAbbrev": "USP", 
+                    "PartyName": "United Socialist Party", 
+                    "Percentage": 0.63, 
+                    "Members": 0
+                }, 
+                {
+                    "Votes": 22, 
+                    "PartyAbbrev": "SEP", 
+                    "PartyName": "Socialist Equality Party", 
+                    "Percentage": 0.07, 
+                    "Members": 0
+                }
+            ], 
+            "BodyName": "Kolonnawa Urban Council", 
+            "District": "Colombo", 
+            "summary": {
+                "RejectedVotes": 728, 
+                "RegisteredVotes": 39905, 
+                "TotalMembers": 20, 
+                "TotalPolled": 31285, 
+                "ValidVotes": 30557
+            }
+        }, 
+        "Kesbewa Urban Council": {
+            "counts": [
+                {
+                    "Votes": 58774, 
+                    "PartyAbbrev": "SLPP", 
+                    "PartyName": "Sri Lanka Podujana Peramuna", 
+                    "Percentage": 54.97, 
+                    "Members": 20
+                }, 
+                {
+                    "Votes": 25361, 
+                    "PartyAbbrev": "UNP", 
+                    "PartyName": "United National Party", 
+                    "Percentage": 23.72, 
+                    "Members": 8
+                }, 
+                {
+                    "Votes": 11852, 
+                    "PartyAbbrev": "JVP", 
+                    "PartyName": "People s Liberation Front", 
+                    "Percentage": 11.08, 
+                    "Members": 4
+                }, 
+                {
+                    "Votes": 8844, 
+                    "PartyAbbrev": "UPFA", 
+                    "PartyName": "United People s Freedom Alliance", 
+                    "Percentage": 8.27, 
+                    "Members": 3
+                }, 
+                {
+                    "Votes": 1284, 
+                    "PartyAbbrev": "IG", 
+                    "PartyName": "Independent Group", 
+                    "Percentage": 1.2, 
+                    "Members": 0
+                }, 
+                {
+                    "Votes": 585, 
+                    "PartyAbbrev": "UNFF", 
+                    "PartyName": "United National Freedom Front", 
+                    "Percentage": 0.55, 
+                    "Members": 0
+                }, 
+                {
+                    "Votes": 226, 
+                    "PartyAbbrev": "ELMSP", 
+                    "PartyName": "Eksath Lanka Maha Saba Party", 
+                    "Percentage": 0.21, 
+                    "Members": 0
+                }
+            ], 
+            "BodyName": "Kesbewa Urban Council", 
+            "District": "Colombo", 
+            "summary": {
+                "RejectedVotes": 1982, 
+                "RegisteredVotes": 138080, 
+                "TotalMembers": 0, 
+                "TotalPolled": 108908, 
+                "ValidVotes": 106926
+            }
+        }, 
+        "Dehiwala-Mt.Lavinia Municipal Council": {
+            "counts": [
+                {
+                    "Votes": 36985, 
+                    "PartyAbbrev": "UNP", 
+                    "PartyName": "United National Party", 
+                    "Percentage": 39.78, 
+                    "Members": 19
+                }, 
+                {
+                    "Votes": 36029, 
+                    "PartyAbbrev": "SLPP", 
+                    "PartyName": "Sri Lanka Podujana Peramuna", 
+                    "Percentage": 38.75, 
+                    "Members": 19
+                }, 
+                {
+                    "Votes": 10956, 
+                    "PartyAbbrev": "UPFA", 
+                    "PartyName": "United People s Freedom Alliance", 
+                    "Percentage": 11.78, 
+                    "Members": 6
+                }, 
+                {
+                    "Votes": 7544, 
+                    "PartyAbbrev": "JVP", 
+                    "PartyName": "People s Liberation Front", 
+                    "Percentage": 8.11, 
+                    "Members": 4
+                }, 
+                {
+                    "Votes": 818, 
+                    "PartyAbbrev": "UPA", 
+                    "PartyName": "United Peace Alliance", 
+                    "Percentage": 0.88, 
+                    "Members": 0
+                }, 
+                {
+                    "Votes": 642, 
+                    "PartyAbbrev": "UNFF", 
+                    "PartyName": "United National Freedom Front", 
+                    "Percentage": 0.69, 
+                    "Members": 0
+                }
+            ], 
+            "BodyName": "Dehiwala-Mt.Lavinia Municipal Council", 
+            "District": "Colombo", 
+            "summary": {
+                "RejectedVotes": 1848, 
+                "RegisteredVotes": 129724, 
+                "TotalMembers": 0, 
+                "TotalPolled": 94822, 
+                "ValidVotes": 92974
+            }
+        }, 
+        "Boralesgamuwa Urban Council": {
+            "counts": [
+                {
+                    "Votes": 14166, 
+                    "PartyAbbrev": "SLPP", 
+                    "PartyName": "Sri Lanka Podujana Peramuna", 
+                    "Percentage": 49.59, 
+                    "Members": 10
+                }, 
+                {
+                    "Votes": 8012, 
+                    "PartyAbbrev": "UNP", 
+                    "PartyName": "United National Party", 
+                    "Percentage": 28.04, 
+                    "Members": 4
+                }, 
+                {
+                    "Votes": 3226, 
+                    "PartyAbbrev": "UPFA", 
+                    "PartyName": "United People s Freedom Alliance", 
+                    "Percentage": 11.29, 
+                    "Members": 2
+                }, 
+                {
+                    "Votes": 3165, 
+                    "PartyAbbrev": "JVP", 
+                    "PartyName": "People s Liberation Front", 
+                    "Percentage": 11.08, 
+                    "Members": 2
+                }
+            ], 
+            "BodyName": "Boralesgamuwa Urban Council", 
+            "District": "Colombo", 
+            "summary": {
+                "RejectedVotes": 548, 
+                "RegisteredVotes": 37237, 
+                "TotalMembers": 0, 
+                "TotalPolled": 29117, 
+                "ValidVotes": 28569
+            }
+        }, 
+        "Maharagama Urban Council": {
+            "counts": [
+                {
+                    "Votes": 44783, 
+                    "PartyAbbrev": "IG2", 
+                    "PartyName": "Independent Group 2", 
+                    "Percentage": 45.72, 
+                    "Members": 25
+                }, 
+                {
+                    "Votes": 26171, 
+                    "PartyAbbrev": "UNP", 
+                    "PartyName": "United National Party", 
+                    "Percentage": 26.72, 
+                    "Members": 11
+                }, 
+                {
+                    "Votes": 12156, 
+                    "PartyAbbrev": "UPFA", 
+                    "PartyName": "United People s Freedom Alliance", 
+                    "Percentage": 12.41, 
+                    "Members": 5
+                }, 
+                {
+                    "Votes": 11837, 
+                    "PartyAbbrev": "JVP", 
+                    "PartyName": "People s Liberation Front", 
+                    "Percentage": 12.08, 
+                    "Members": 5
+                }, 
+                {
+                    "Votes": 2634, 
+                    "PartyAbbrev": "IG1", 
+                    "PartyName": "Independent Group 1", 
+                    "Percentage": 2.69, 
+                    "Members": 1
+                }, 
+                {
+                    "Votes": 373, 
+                    "PartyAbbrev": "IG3", 
+                    "PartyName": "Independent Group 3", 
+                    "Percentage": 0.38, 
+                    "Members": 0
+                }
+            ], 
+            "BodyName": "Maharagama Urban Council", 
+            "District": "Colombo", 
+            "summary": {
+                "RejectedVotes": 2973, 
+                "RegisteredVotes": 134622, 
+                "TotalMembers": 0, 
+                "TotalPolled": 100927, 
+                "ValidVotes": 97954
+            }
+        }, 
+        "Homagama Pradeshiya Sabha": {
+            "counts": [
+                {
+                    "Votes": 80904, 
+                    "PartyAbbrev": "SLPP", 
+                    "PartyName": "Sri Lanka Podujana Peramuna", 
+                    "Percentage": 55.31, 
+                    "Members": 28
+                }, 
+                {
+                    "Votes": 30587, 
+                    "PartyAbbrev": "UNP", 
+                    "PartyName": "United National Party", 
+                    "Percentage": 20.91, 
+                    "Members": 10
+                }, 
+                {
+                    "Votes": 14935, 
+                    "PartyAbbrev": "JVP", 
+                    "PartyName": "People s Liberation Front", 
+                    "Percentage": 10.21, 
+                    "Members": 5
+                }, 
+                {
+                    "Votes": 14385, 
+                    "PartyAbbrev": "UPFA", 
+                    "PartyName": "United People s Freedom Alliance", 
+                    "Percentage": 9.83, 
+                    "Members": 5
+                }, 
+                {
+                    "Votes": 3167, 
+                    "PartyAbbrev": "IG3", 
+                    "PartyName": "Independent Group 3", 
+                    "Percentage": 2.17, 
+                    "Members": 1
+                }, 
+                {
+                    "Votes": 1280, 
+                    "PartyAbbrev": "IG2", 
+                    "PartyName": "Independent Group 2", 
+                    "Percentage": 0.88, 
+                    "Members": 0
+                }, 
+                {
+                    "Votes": 543, 
+                    "PartyAbbrev": "UNFF", 
+                    "PartyName": "United National Freedom Front", 
+                    "Percentage": 0.37, 
+                    "Members": 0
+                }, 
+                {
+                    "Votes": 477, 
+                    "PartyAbbrev": "IG1", 
+                    "PartyName": "Independent Group 1", 
+                    "Percentage": 0.33, 
+                    "Members": 0
+                }
+            ], 
+            "BodyName": "Homagama Pradeshiya Sabha", 
+            "District": "Colombo", 
+            "summary": {
+                "RejectedVotes": 2605, 
+                "RegisteredVotes": 188282, 
+                "TotalMembers": 0, 
+                "TotalPolled": 148883, 
+                "ValidVotes": 146278
+            }
+        }, 
+        "Moratuwa Municipal Council": {
+            "counts": [
+                {
+                    "Votes": 44944, 
+                    "PartyAbbrev": "SLPP", 
+                    "PartyName": "Sri Lanka Podujana Peramuna", 
+                    "Percentage": 47.46, 
+                    "Members": 23
+                }, 
+                {
+                    "Votes": 31521, 
+                    "PartyAbbrev": "UNP", 
+                    "PartyName": "United National Party", 
+                    "Percentage": 33.28, 
+                    "Members": 16
+                }, 
+                {
+                    "Votes": 8586, 
+                    "PartyAbbrev": "UPFA", 
+                    "PartyName": "United People s Freedom Alliance", 
+                    "Percentage": 9.07, 
+                    "Members": 4
+                }, 
+                {
+                    "Votes": 6889, 
+                    "PartyAbbrev": "JVP", 
+                    "PartyName": "People s Liberation Front", 
+                    "Percentage": 7.27, 
+                    "Members": 4
+                }, 
+                {
+                    "Votes": 2022, 
+                    "PartyAbbrev": "NPP", 
+                    "PartyName": "National Peoples Party", 
+                    "Percentage": 2.14, 
+                    "Members": 1
+                }, 
+                {
+                    "Votes": 739, 
+                    "PartyAbbrev": "IG", 
+                    "PartyName": "Independent Group", 
+                    "Percentage": 0.78, 
+                    "Members": 0
+                }
+            ], 
+            "BodyName": "Moratuwa Municipal Council", 
+            "District": "Colombo", 
+            "summary": {
+                "RejectedVotes": 1603, 
+                "RegisteredVotes": 119043, 
+                "TotalMembers": 0, 
+                "TotalPolled": 96304, 
+                "ValidVotes": 94701
+            }
+        }, 
+        "Seethawakapura Urban Council": {
+            "counts": [
+                {
+                    "Votes": 7416, 
+                    "PartyAbbrev": "UNP", 
+                    "PartyName": "United National Party", 
+                    "Percentage": 45.23, 
+                    "Members": 11
+                }, 
+                {
+                    "Votes": 5849, 
+                    "PartyAbbrev": "SLPP", 
+                    "PartyName": "Sri Lanka Podujana Peramuna", 
+                    "Percentage": 35.67, 
+                    "Members": 8
+                }, 
+                {
+                    "Votes": 2302, 
+                    "PartyAbbrev": "UPFA", 
+                    "PartyName": "United People s Freedom Alliance", 
+                    "Percentage": 14.04, 
+                    "Members": 3
+                }, 
+                {
+                    "Votes": 811, 
+                    "PartyAbbrev": "JVP", 
+                    "PartyName": "People s Liberation Front", 
+                    "Percentage": 4.95, 
+                    "Members": 1
+                }, 
+                {
+                    "Votes": 18, 
+                    "PartyAbbrev": "IG", 
+                    "PartyName": "Independent Group", 
+                    "Percentage": 0.11, 
+                    "Members": 0
+                }
+            ], 
+            "BodyName": "Seethawakapura Urban Council", 
+            "District": "Colombo", 
+            "summary": {
+                "RejectedVotes": 336, 
+                "RegisteredVotes": 20469, 
+                "TotalMembers": 0, 
+                "TotalPolled": 16762, 
+                "ValidVotes": 16396
+            }
+        }
+    }
+}
